@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="web/public/brand-icon.png" alt="Orzon Finance" width="96" height="96" />
+  <img src="https://orzonfinance.online/brand-icon.png" alt="Orzon Finance" width="96" height="96" />
 </p>
 
 <h1 align="center">Orzon Finance</h1>
